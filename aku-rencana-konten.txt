@@ -1,0 +1,6 @@
+aku rencana konten 
+
+-javascrip
+-phpfremwork
+-interview
+-vlog
